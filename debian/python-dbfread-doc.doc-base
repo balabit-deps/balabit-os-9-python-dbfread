@@ -1,0 +1,9 @@
+Document: python-dbfread-doc
+Title: dbfread documentation
+Author: Ole Martin Bjorndalen
+Abstract: This is the reference documentation for dbfread.
+Section: Programming
+
+Format: HTML
+Index: /usr/share/doc/python-dbfread-doc/html/index.html
+Files: /usr/share/doc/python-dbfread-doc/html/*.html
